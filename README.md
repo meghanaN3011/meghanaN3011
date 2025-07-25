@@ -1,5 +1,5 @@
 ## ✨ About Me
-I'm a Computer Science and Engineering graduate (2025) passionate about building responsive and scalable web applications.
+I'm a Computer Science and Engineering graduate (2025) passionate about building responsive and scalable web applications.      
 I specialize in the MERN stack, frontend development, and Java, and love solving real-world problems through code.
 
 ## 🌐 Socials

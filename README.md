@@ -1,5 +1,5 @@
 # ✨ About Me:
-I'm a Computer Science graduate (2025) passionate about building responsive and scalable web applications. I specialize in the MERN stack, frontend development, and Java, and love solving real-world problems through code.
+I'm a Computer Science and Engineering graduate (2025) passionate about building responsive and scalable web applications. I specialize in the MERN stack, frontend development, and Java, and love solving real-world problems through code.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meghana_3011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meghana-n3011) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meghana.n1612@gmail.com) 

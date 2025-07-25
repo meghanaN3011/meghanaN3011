@@ -1,4 +1,4 @@
-# 💫About Me:
+# ✨About Me:
 Computer Science Graduate (2025) | Aspiring Full-Stack Developer | Frontend Development | MERN Stack 
 
 

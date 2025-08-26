@@ -13,9 +13,6 @@ I specialize in the MERN stack, frontend development, and Java, and love solving
 ![](https://nirzak-streak-stats.vercel.app/?user=meghanaN3011&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanaN3011&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=meghanaN3011&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
